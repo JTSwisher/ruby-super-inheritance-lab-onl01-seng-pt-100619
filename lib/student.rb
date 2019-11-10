@@ -1,7 +1,7 @@
 class Student 
   
   def hello
-    "Hello"
+   print "Hello"
   end 
   
   def raise_hand
